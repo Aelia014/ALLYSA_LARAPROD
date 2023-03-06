@@ -125,7 +125,7 @@
                     <h3><a href="assets/img/portfolio/Book1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Wattpad 1">Wattpad 1</a></h3>
                     <div>
                       <a href="assets/img/portfolio/Book1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Wattpad 1"><i class="bi bi-plus"></i></a>
-                      <a href="#details" title="Details"><i class="bi bi-link"></i></a>
+                      <a href="/details" title="Details"><i class="bi bi-link"></i></a>
                     </div>
                   </div>
                 </div>

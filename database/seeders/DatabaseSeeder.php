@@ -13,23 +13,23 @@ class DatabaseSeeder extends Seeder
          \App\Models\User::factory(5)->create();
 
         DB::table('tbl_books')->insert([
-            'Wattpad'        =>  'I love you since 1892',
-            'Novel'          =>  'Percy Jackson set',
-            'Bookmark'       =>  'vintage set'   
+            'Wattpad'        =>  'Wattpad 1',
+            'Novel'          =>  'Novel 1',
+            'Bookmark'       =>  'Bookmark 1'   
             
         ]);
 
         DB::table('tbl_books')->insert([
-            'Wattpad'        =>  'Every Beast needs a Beauty',
-            'Novel'          =>  'Chronicles of Narnia set',
-            'Bookmark'       =>  'Aesthetic set'   
+            'Wattpad'        =>  'Wattpad 2',
+            'Novel'          =>  'Novel 2',
+            'Bookmark'       =>  'Bookmark 2'   
             
         ]);
 
         DB::table('tbl_books')->insert([
-            'Wattpad'        =>  'Scorching Love',
-            'Novel'          =>  'Lord of the rings set',
-            'Bookmark'       =>  'Colorful set'   
+            'Wattpad'        =>  'Wattpad 3',
+            'Novel'          =>  'Novel 3',
+            'Bookmark'       =>  'Bookmark 3'   
             
         ]);
     }
